@@ -1,16 +1,55 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.svg" alt="Hex Nimble Banner">
+</p>
 
-<!--
-**hexnimble0-cloud/hexnimble0-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I’m Hex (HexNimble / Nimble)</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Creator • Content Creator • Developer
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- Name: **Hex / Nimble**
+- Creator, content creator, and developer
+- I work with programming, gaming, art, editing, and file management
+
+I have experience as:
+- Freelancer
+- YouTuber (editing, planning, scheduling content)
+- Community administrator
+
+I worked without payment due to lack of a payment method.  
+I later quit because of school, workload, and wanting to grow further.
+
+---
+
+## 🚀 What I Do
+
+- Programming
+- Video editing
+- Digital art & design
+- File & project management
+- Content planning
+- Gaming-related projects
+
+---
+
+## 🛠 Tech Stack (Learning & Improving)
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- Git & GitHub
+
+---
+
+## 📚 Current Focus
+
+- Improving coding skills
+- Building real projects
+- Learning by doing
