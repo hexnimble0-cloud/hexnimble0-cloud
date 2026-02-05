@@ -10,6 +10,27 @@ Creator • Content Creator • Developer
 
 ---
 
+## 🛠 Technical Stack & Skills
+
+### 💻 Programming & Development
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Python, Java
+- **Tools:** VS Code, Git, GitHub
+- **Work Experience:** Freelancer (Experienced)
+
+### 🎨 Design & Creative Tools
+- **UI/UX Design:** Figma
+- **Graphics:** Photoshop, Illustrator
+- **Video Editing:** Premiere Pro, After Effects
+
+### 🔧 Professional Skills
+- **Project Management:** Organized File Management
+- **Version Control:** Git workflow
+- **Creative Production:** Full content pipeline
+- **Specialization:** Gaming-focused projects
+
+---
+
 ## 🎯 About Me
 
 I'm a versatile creator and developer with experience across multiple digital domains. I combine technical skills with creative vision to build engaging digital experiences.
@@ -29,31 +50,10 @@ I'm passionate about creating digital experiences that combine technical excelle
 
 ---
 
-## 🛠 Technical Skills
-
-### Programming Languages
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python, Java
-- **Version Control:** Git, GitHub
-
-### Creative Skills
-- Video Editing & Production
-- Digital Art & Graphic Design
-- Content Planning & Strategy
-- Project & File Management
-
-### Tools & Platforms
-- Adobe Creative Suite
-- Visual Studio Code
-- Various Game Development Tools
-- Social Media Platforms
-
----
-
 ## 📚 Current Learning Focus
 
 I'm actively improving my skills in:
-- Advanced JavaScript and frameworks
+- Advanced JavaScript and React frameworks
 - Python application development
 - Software architecture principles
 - Professional project workflows
