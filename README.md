@@ -81,8 +81,8 @@ I believe in:
 
 ## 📫 Connect With Me
 
-- **GitHub:** [@HexNimble](https://github.com/HexNimble)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **GitHub:** [@HexNimble](https://github.com/hexnimble0-cloud)
+- **Email:** [your.email@example.com](mailto:hexnimble0@gmail.com)
 - **Portfolio:** [Coming Soon]
 
 ---
