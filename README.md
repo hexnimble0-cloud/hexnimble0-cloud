@@ -90,5 +90,3 @@ I believe in:
 *"Turning creative ideas into functional reality through code and design."*
 
 ---
-
-**Note:** Replace `YOUR_USERNAME` with your actual GitHub username to display your statistics.
