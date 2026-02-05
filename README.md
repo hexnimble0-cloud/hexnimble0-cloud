@@ -18,14 +18,14 @@ I'm a versatile creator and developer with experience across multiple digital do
 **Role:** Creator, Content Producer & Developer  
 **Focus:** Programming, gaming, digital art, and content creation
 
-### 🏢 Professional Background
+### Professional Experience
+I have experience as:
+- Freelance Developer
+- YouTube Creator (editing, planning, scheduling content)
+- Community Administrator
 
-- **Freelance Developer** - Built custom solutions for various projects
-- **YouTube Creator** - Managed full content lifecycle from planning to publishing
-- **Community Administrator** - Moderated and grew online communities
-- **Digital Artist** - Created visual content and designs
-
-I previously worked without payment due to payment method limitations, and stepped back to focus on personal growth and education.
+### About Me
+I'm passionate about creating digital experiences that combine technical excellence with creative expression. My journey spans from content creation to software development, allowing me to approach problems with both artistic and technical perspectives.
 
 ---
 
