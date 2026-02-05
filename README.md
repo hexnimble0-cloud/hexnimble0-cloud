@@ -61,6 +61,14 @@ I'm actively improving my skills in:
 
 ---
 
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hexnimble0-cloud&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hexnimble0-cloud&layout=compact)
+
+---
+
 ## 🚀 Project Philosophy
 
 I believe in:
@@ -71,22 +79,12 @@ I believe in:
 
 ---
 
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hexnimble0-cloud=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
-- **GitHub:** [@HexNimble](https://github.com/hexnimble0-cloud)
-- **Email:** [your.email@example.com](mailto:hexnimble0@gmail.com)
+- **GitHub:** [@hexnimble0-cloud](https://github.com/hexnimble0-cloud)
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
 - **Portfolio:** [Coming Soon]
 
 ---
 
 *"Turning creative ideas into functional reality through code and design."*
-
----
