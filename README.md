@@ -61,11 +61,13 @@ I'm actively improving my skills in:
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Stats
 
-![GitHub stars](https://img.shields.io/github/stars/hexnimble0-cloud)
-![GitHub followers](https://img.shields.io/github/followers/hexnimble0-cloud)
-![GitHub last commit](https://img.shields.io/github/last-commit/hexnimble0-cloud/hexnimble0-cloud)
+![GitHub Stars](https://img.shields.io/github/stars/hexnimble0-cloud?style=for-the-badge&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/hexnimble0-cloud?style=for-the-badge&color=green)
+![Last Commit](https://img.shields.io/github/last-commit/hexnimble0-cloud/hexnimble0-cloud?style=for-the-badge&color=orange)
+
+**Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=hexnimble0-cloud&color=purple)
 
 ---
 
@@ -82,7 +84,7 @@ I believe in:
 ## 📫 Connect With Me
 
 - **GitHub:** [@hexnimble0-cloud](https://github.com/hexnimble0-cloud)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [hexnimble0@gmail.com](mailto:hexnimble0@gmail.com)
 - **Portfolio:** [Coming Soon]
 
 ---
