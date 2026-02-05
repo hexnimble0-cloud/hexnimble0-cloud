@@ -63,9 +63,9 @@ I'm actively improving my skills in:
 
 ## 📈 GitHub Activity
 
-![GitHub Stats](https://github-profile-trophy.vercel.app/?username=hexnimble0-cloud)
-
-![Top Languages](https://streak-stats.demolab.com/?user=hexnimble0-cloud)
+![GitHub stars](https://img.shields.io/github/stars/hexnimble0-cloud)
+![GitHub followers](https://img.shields.io/github/followers/hexnimble0-cloud)
+![GitHub last commit](https://img.shields.io/github/last-commit/hexnimble0-cloud/hexnimble0-cloud)
 
 ---
 
